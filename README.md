@@ -1,7 +1,6 @@
 ## 양현석 — Software Developer
 
 운영자가 매일 붙잡고 일하는 B2B 백오피스와, 앱에 실리는 웹뷰를 설계부터 운영까지 만듭니다.
-현재 렌터카 영업 플랫폼의 백오피스 · API 서버 · 고객 웹 3개 저장소를 단독으로 맡고 있습니다.
 
 **React · Next.js · React Native · TypeScript · NestJS · Playwright**
 
