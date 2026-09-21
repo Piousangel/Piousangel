@@ -1,12 +1,7 @@
-## 양현석 — Software Developer
+## 양현석
 
-운영자가 매일 붙잡고 일하는 B2B 백오피스와, 앱에 실리는 웹뷰를 설계부터 운영까지 만듭니다.
+프론트엔드를 중심으로 웹과 앱을 만듭니다.
 
-**React · Next.js · React Native · TypeScript · NestJS · Playwright**
+**React · Next.js · React Native · TypeScript**
 
-### 저장소에 대하여
-
-실무 코드와 개인 프로젝트는 모두 비공개 저장소입니다.
-아래에 공개된 것들은 2020–2023년의 학습 기록입니다 —
-KAIST SW 사관학교 정글 4기의 운영체제(Pintos) · 프록시 서버 · 메모리 할당기 · 자료구조 구현 과제(C),
-그리고 알고리즘 풀이와 기업 과제 전형 결과물입니다.
+작업 중인 저장소는 대부분 비공개입니다.
